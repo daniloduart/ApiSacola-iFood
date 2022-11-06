@@ -33,6 +33,8 @@ public class Sacola {
 
     @OneToMany(cascade = CascadeType.ALL)
     private List<Item> itens;
+
+
     private Double valorTotal;
 
     @Enumerated    //
