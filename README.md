@@ -10,4 +10,4 @@ Qualquer dúvida ou sugestão, manda um Issue pra mim ou me procura nos contatos
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581988877025)
 </div>
 <hr>
-<sub><i> Feito por 13zero1 </i> </sub>
+<p align="center"> <i> < 13zero1 > </i> </p>
